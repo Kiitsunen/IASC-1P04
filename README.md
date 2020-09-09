@@ -5,7 +5,3 @@ This is the website used for my Twine Game, created for the course at Brock Univ
 ## Playtest
 
 Playtest my game .[here].
-
-## Game Proposal Document
-
-Read the documentation for my game .[here].
