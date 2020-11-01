@@ -10,7 +10,7 @@ Sampling Plus 1.0
 "The little cabin"
 by Fotograf Myregrund
 
-licensed under CC BY-NC-SA 2.0 
+Licensed under CC BY-NC-SA 2.0 
 
 ---
 
