@@ -7,10 +7,8 @@ Sampling Plus 1.0
 
 ---
 
-"The little cabin"
-by Fotograf Myregrund
-
-Licensed under CC BY-NC-SA 2.0 
+"Alone" 
+by A Brand New Minneapolis is licensed under CC BY-NC 2.0 
 
 ---
 
