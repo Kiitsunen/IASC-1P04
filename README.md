@@ -7,4 +7,4 @@ Playtest my game .[here].
 
 
 ## Prototype
-Play the prototype of my game .[here].(prototype/ScreamingEaglesPrototype.HTML)
+Play the prototype of my game .[here].(prototype/ScreamingEaglesPrototype.html)
