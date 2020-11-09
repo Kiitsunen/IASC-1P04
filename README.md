@@ -3,7 +3,7 @@ This is the website used for my Twine Game, created for the course at Brock Univ
 
 
 ## Playtest
-Playtest my game [here]
+Playtest my game [here](playtest/playtest)
 
 
 ## Prototype
