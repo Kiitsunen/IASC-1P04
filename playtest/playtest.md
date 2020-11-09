@@ -1,5 +1,5 @@
 # Screaming Eagles
-##Playtest
+## Playtest
 
 ## Play the game
 Play the game prototype [here](prototype/ScreamingEaglesPrototype.html)
